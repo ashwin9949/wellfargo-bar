@@ -15,3 +15,4 @@ echo $name
 echo "[INFO] GIT Jenkins Integratioon Demo"
 echo "[INFO] POLL SCM Demo"
 echo "[INFO] POLL SCM Demo to check changes"
+echo "[INFO] GIT and UCD integration"
